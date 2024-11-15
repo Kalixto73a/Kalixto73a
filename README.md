@@ -1,16 +1,32 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**Kalixto73a/Kalixto73a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I´m Álvaro Cervera Vigara
 
-Here are some ideas to get you started:
+I´m 18 years old.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I´m currently new to the prograaming related-field.
+
+I´m currently learning a Backend and AWS bootcamp at Factoria F5
+
+## 🛠 Skills
+
+![](https://skillicons.dev/icons?i=html,css,js,tailwind,postman)
+
+## 🧠 I'm currently learning...
+
+![](https://skillicons.dev/icons?i=php,mysql,laravel)
+
+## 🔗Links
+
+<a href="https://www.instagram.com/alvarocerveraa/profilecard/?igsh=aXBrYTg1eW9lcWp4">
+  <img src="https://skillicons.dev/icons?i=instagram">
+</a>
+
+<a href="https://www.linkedin.com/in/álvaro-cervera-vigara-745576337/">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+
+## Stats
+
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kalixto73a&show_icons=true&theme=radical"/>
+<img alt="top langs" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalixto73a&show_icons=true&theme=radical"/>
