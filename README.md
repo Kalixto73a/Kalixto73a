@@ -4,7 +4,7 @@ Hello, I´m Álvaro Cervera Vigara
 
 I´m 19 years old.
 
-I´m currently new to the prograaming related-field.
+I´m currently new to the programing related-field.
 
 I´m currently learning a Backend and AWS bootcamp at Factoria F5
 
