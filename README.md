@@ -28,5 +28,5 @@ I´m currently learning a Backend and AWS bootcamp at Factoria F5
 
 ## 👨🏽‍💻Stats
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kalixto73a&show_icons=true&theme=radical"/>
-<img alt="top langs" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalixto73a&show_icons=true&theme=radical"/>
+<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Kalixto73a&show_icons=true&theme=radical"/>
+<img alt="top langs" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalixto73a&show_icons=true&theme=radical&layout=donut"/>
