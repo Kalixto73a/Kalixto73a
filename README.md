@@ -2,19 +2,13 @@
 
 Hello, I´m Álvaro Cervera Vigara
 
-I´m 19 years old.
+I´m 20 years old.
 
-I´m currently new to the programing related-field.
-
-I´m currently learning a Backend and AWS bootcamp at Factoria F5
+I have 1 year of experience with PHP and Laravel
 
 ## 🛠 Skills
 
-![](https://skillicons.dev/icons?i=html,css,js,tailwind,postman)
-
-## 🧠 I'm currently learning...
-
-![](https://skillicons.dev/icons?i=php,mysql,laravel)
+![](https://skillicons.dev/icons?i=html,css,js,tailwind,postman,php,mysql,laravel)
 
 ## 🔗Links
 
