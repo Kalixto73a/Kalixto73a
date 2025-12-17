@@ -6,6 +6,10 @@ I´m 20 years old.
 
 I have 1 year of experience with PHP and Laravel
 
+## 🧠 I'm currently learning...
+
+![](https://skillicons.dev/icons?i=angular)
+
 ## 🛠 Skills
 
 ![](https://skillicons.dev/icons?i=html,css,js,tailwind,postman,php,mysql,laravel)
