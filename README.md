@@ -8,7 +8,7 @@ I have 1 year of experience with PHP and Laravel
 
 ## 🧠 I'm currently learning...
 
-![](https://skillicons.dev/icons?i=angular)
+![](https://skillicons.dev/icons?i=angular,java)
 
 ## 🛠 Skills
 
