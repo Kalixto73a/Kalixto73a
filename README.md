@@ -8,7 +8,7 @@ I have 1 year of experience with PHP and Laravel
 
 ## 🧠 I'm currently learning...
 
-![](https://skillicons.dev/icons?i=angular,java)
+![](https://skillicons.dev/icons?i=angular,java,spring)
 
 ## 🛠 Skills
 
@@ -25,6 +25,6 @@ I have 1 year of experience with PHP and Laravel
 </a>
 
 ## 👨🏽‍💻Stats
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats-pearl-sigma-22.vercel.app/api/top-langs?username=Kalixto73a&show_icons=true&theme=radical&layout=donut"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats-pearl-sigma-22.vercel.app/api/top-langs?username=Kalixto73a&show_icons=true&theme=radical&layout=donut&langs_count=7"/>
 <img alt="my stats" align="right" width="48%" src="https://github-readme-stats-pearl-sigma-22.vercel.app/api?username=Kalixto73a&show_icons=true&theme=radical"/>
 
